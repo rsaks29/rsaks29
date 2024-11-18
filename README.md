@@ -5,4 +5,4 @@
 
 - 🔭 I’m currently working on [this project](https://github.com/goblin101-co/stock-simulator)
 - 🌱 I’m currently learning R
-- 📫 How to reach me: By [Email](ron.saks@gmx.ch) or through my [website](rsaks29.github.io)
+- 📫 How to reach me: By [Email](ron.saks@gmx.ch) or through my [website](https://rsaks29.github.io)
